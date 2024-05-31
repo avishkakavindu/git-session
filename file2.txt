@@ -1,1 +1,1 @@
-Content of file 2 updated
+Content of file 2 updated twice
